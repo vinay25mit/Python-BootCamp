@@ -77,3 +77,10 @@
  20. Write a program in Python to calculate area of an equilateral triangle
  
  
+ 21.input a string and write a program to determine if the string contains any vowels.
+ 22.write a program to check max and min of three numbers without using inbuilt function.
+ 23.Given the acceleration due to gravity g and acceleration of the lift a,write a program to check whether the man will feel weightless or overweight or less    weight
+ 24.input 5 numbers and check whether they are in A.P ,G.P or both or Neither .
+ 25.A water  Tank have Capacity of W liters of Water. A bucket has capacity of B liters of water .A  man will take P buckets of water to bath .write a program and 
+ take input W ,B,P and determine how many man can take bath if he exactly uses P buckets of water. 
+ 
